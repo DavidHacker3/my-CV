@@ -1,1 +1,1 @@
-https://github.com/DavidHacker3/my-CV
+https://roadmap.sh/projects/single-page-cv
